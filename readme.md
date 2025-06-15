@@ -25,6 +25,25 @@ uv sync
 Then add the pdf file you want to convert to the `data` directory. 
 After that, you should reference the file in the Jupyter Notebook file `<bank>-extract.ipynb` and run it to convert the PDF file to CSV format.
 
+## 📂 Bank Status
+| Bank Name | Status |
+| --------- | ----- |
+| [Access Bank](https://www.accessbankplc.com/) | ✅ |
+| [First Bank](https://www.firstbanknigeria.com/) | ✅ |
+| [Opay](https://www.opayweb.com/) | ✅ |
+| [GT Bank](https://www.gtbank.com/) | ❌ |
+| [Zenith Bank](https://www.zenithbank.com/) | ❌ |
+| [Union Bank](https://www.unionbankng.com/) | ❌ |
+| [UBA](https://www.ubagroup.com/) | ❌ |
+| [Wema Bank](https://www.wemabank.com/) | ❌ |
+| [Fidelity Bank](https://www.fidelitybank.ng/) | ❌ |
+| [Stanbic IBTC](https://www.stanbicibtcbank.com/) | ❌ |
+| [Ecobank](https://www.ecobank.com/) | ❌ |
+| [Standard Chartered Bank](https://www.sc.com/ng/) | ❌ |
+| [Sterling Bank](https://www.sterling.ng/) | ❌ |
+| [Providus Bank](https://www.providusbank.com/) | ❌ |
+| [Moniepoint](https://www.moniepoint.com/) | ❌ |
+
 ## ✨ Feedback & Suggestions
 
 If you have any suggestions/feedback, you can contact me via [my email](mailto:tosin@thezentra.com). 
