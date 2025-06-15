@@ -1,3 +1,5 @@
-/output
+/output/*
+!/output/.gitkeep
 /docs/*
+!/docs/.gitkeep
 /.idea

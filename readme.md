@@ -4,7 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/github/license/tosinshada/bank-statement-converter?color=%232F3741&style=for-the-badge)
 
-This is a simple bank statement converter that converts bank statements from PDF to CSV format. It uses Python and Jupyter Notebook to extract data from the PDF file and convert it to CSV format.
+This is a simple bank statement converter that converts Nigerian bank statements from PDF to a structured format. 
+It uses Python and Jupyter Notebook to extract data from the PDF file and convert it to CSV format.
 
 ## 💻 Tech Stack
 
@@ -22,7 +23,7 @@ You can start using this project locally by running the following command in you
 uv sync
 ```
 
-Then add the pdf file you want to convert to the `data` directory. 
+Then add the bank statement pdf file you want to convert to the `docs` directory in the project's root directory. 
 After that, you should reference the file in the Jupyter Notebook file `<bank>-extract.ipynb` and run it to convert the PDF file to CSV format.
 
 ## 📂 Bank Status
@@ -44,9 +45,17 @@ After that, you should reference the file in the Jupyter Notebook file `<bank>-e
 | [Providus Bank](https://www.providusbank.com/) | ❌ |
 | [Moniepoint](https://www.moniepoint.com/) | ❌ |
 
+## 📥 Contributing
+
+Contributions are welcome! If you want to contribute to this project, please note the following:
+- do not add any sensitive information to the codebase e.g. the bank statement pdf file. 
+- The content of the docs folder are ignored by git, so you can add your bank statement pdf files there.
+- If you want to add a new bank, please create a new Jupyter Notebook file with the name `<bank>-extract.ipynb` and add it to the `notebooks` folder.
+- Make sure to clear your notebook output before committing your changes to prevent sensitive information from being committed.
+
 ## ✨ Feedback & Suggestions
 
-If you have any suggestions/feedback, you can contact me via [my email](mailto:tosin@thezentra.com). 
+If you have any suggestions/feedback, you can contact me by [email](mailto:tosin@thezentra.com). 
 Alternatively, feel free to open an issue if you find bugs or want to request new features.
 
 ## 📜 License
