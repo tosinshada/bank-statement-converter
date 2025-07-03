@@ -35,15 +35,17 @@ After that, you should reference the file in the Jupyter Notebook file `<bank>-e
 | [GT Bank](https://www.gtbank.com/)                |   ❌    |
 | [Zenith Bank](https://www.zenithbank.com/)        |   ✅    |
 | [Union Bank](https://www.unionbankng.com/)        |   ❌    |
-| [UBA](https://www.ubagroup.com/)                  |   ⚠️   |
+| [UBA](https://www.ubagroup.com/)                  |   ❌    |
 | [Wema Bank](https://www.wemabank.com/)            |   ❌    |
 | [Fidelity Bank](https://www.fidelitybank.ng/)     |   ❌    |
 | [Stanbic IBTC](https://www.stanbicibtcbank.com/)  |   ❌    |
 | [Ecobank](https://www.ecobank.com/)               |   ❌    |
-| [Standard Chartered Bank](https://www.sc.com/ng/) |   ⚠️   |
-| [Sterling Bank](https://www.sterling.ng/)         |   ⚠️   |
+| [Standard Chartered Bank](https://www.sc.com/ng/) |   ✅    |
+| [Sterling Bank](https://www.sterling.ng/)         |   ❌    |
 | [Providus Bank](https://www.providusbank.com/)    |   ❌    |
-| [Moniepoint](https://www.moniepoint.com/)         |   ⚠️   |
+| [Moniepoint](https://www.moniepoint.com/)         |   ❌    |
+| [Kuda Bank](https://www.kuda.com/)                |   ⚠️   |
+| [Providus Bank](https://www.providusbank.com/)    |   ✅    |
 
 ## 📥 Contributing
 
